@@ -1,5 +1,4 @@
 import pymysql
-from tkinter import messagebox
 
 # Função para conectar ao banco de dados MySQL
 def conectar_banco():
